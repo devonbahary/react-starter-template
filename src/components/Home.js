@@ -7,6 +7,7 @@ const Home = () => (
         <ul>
             <li>React Router</li>
             <li>SASS</li>
+            <a href='https://necolas.github.io/normalize.css/'><li>Normalize.css</li></a>
             <li>Webpack configured for development</li>
             <li>Babel plugins:</li>
             <ul>
